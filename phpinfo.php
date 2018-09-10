@@ -1,3 +1,3 @@
 <?php
-echo phpinfo();
+echo "Hi how are you";
 ?>
